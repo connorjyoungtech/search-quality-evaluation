@@ -1,61 +1,16 @@
-"Query ID","Suggested query","Result position","Observed date","Search context","User intent","Result URL","Page title","Intent match (0–3)","Credibility (0–3)","Accuracy / freshness (0–2)","Usefulness (0–2)","Total (0–10)","Rating justification","Verification evidence / limits","Status"
-"Q01","how to take a screenshot on a Mac","1","","","","","","","","","","","","","Not started"
-"Q01","how to take a screenshot on a Mac","2","","","","","","","","","","","","","Not started"
-"Q01","how to take a screenshot on a Mac","3","","","","","","","","","","","","","Not started"
-"Q02","how to reset the SMC on an Intel MacBook Pro","1","","","","","","","","","","","","","Not started"
-"Q02","how to reset the SMC on an Intel MacBook Pro","2","","","","","","","","","","","","","Not started"
-"Q02","how to reset the SMC on an Intel MacBook Pro","3","","","","","","","","","","","","","Not started"
-"Q03","Windows 11 connected to Wi-Fi but no internet","1","","","","","","","","","","","","","Not started"
-"Q03","Windows 11 connected to Wi-Fi but no internet","2","","","","","","","","","","","","","Not started"
-"Q03","Windows 11 connected to Wi-Fi but no internet","3","","","","","","","","","","","","","Not started"
-"Q04","how to enable two-factor authentication on GitHub","1","","","","","","","","","","","","","Not started"
-"Q04","how to enable two-factor authentication on GitHub","2","","","","","","","","","","","","","Not started"
-"Q04","how to enable two-factor authentication on GitHub","3","","","","","","","","","","","","","Not started"
-"Q05","Raleigh public library opening hours","1","","","","","","","","","","","","","Not started"
-"Q05","Raleigh public library opening hours","2","","","","","","","","","","","","","Not started"
-"Q05","Raleigh public library opening hours","3","","","","","","","","","","","","","Not started"
-"Q06","North Carolina Museum of Art admission","1","","","","","","","","","","","","","Not started"
-"Q06","North Carolina Museum of Art admission","2","","","","","","","","","","","","","Not started"
-"Q06","North Carolina Museum of Art admission","3","","","","","","","","","","","","","Not started"
-"Q07","Raleigh electronics recycling drop off","1","","","","","","","","","","","","","Not started"
-"Q07","Raleigh electronics recycling drop off","2","","","","","","","","","","","","","Not started"
-"Q07","Raleigh electronics recycling drop off","3","","","","","","","","","","","","","Not started"
-"Q08","Pullen Park Raleigh parking","1","","","","","","","","","","","","","Not started"
-"Q08","Pullen Park Raleigh parking","2","","","","","","","","","","","","","Not started"
-"Q08","Pullen Park Raleigh parking","3","","","","","","","","","","","","","Not started"
-"Q09","USB-C hub for a MacBook with HDMI","1","","","","","","","","","","","","","Not started"
-"Q09","USB-C hub for a MacBook with HDMI","2","","","","","","","","","","","","","Not started"
-"Q09","USB-C hub for a MacBook with HDMI","3","","","","","","","","","","","","","Not started"
-"Q10","waterproof hiking boots under 100 dollars","1","","","","","","","","","","","","","Not started"
-"Q10","waterproof hiking boots under 100 dollars","2","","","","","","","","","","","","","Not started"
-"Q10","waterproof hiking boots under 100 dollars","3","","","","","","","","","","","","","Not started"
-"Q11","1080p monitor with HDMI under 150 dollars","1","","","","","","","","","","","","","Not started"
-"Q11","1080p monitor with HDMI under 150 dollars","2","","","","","","","","","","","","","Not started"
-"Q11","1080p monitor with HDMI under 150 dollars","3","","","","","","","","","","","","","Not started"
-"Q12","wireless mouse for small hands","1","","","","","","","","","","","","","Not started"
-"Q12","wireless mouse for small hands","2","","","","","","","","","","","","","Not started"
-"Q12","wireless mouse for small hands","3","","","","","","","","","","","","","Not started"
-"Q13","what is the difference between RAM and storage","1","","","","","","","","","","","","","Not started"
-"Q13","what is the difference between RAM and storage","2","","","","","","","","","","","","","Not started"
-"Q13","what is the difference between RAM and storage","3","","","","","","","","","","","","","Not started"
-"Q14","how does a computer DNS lookup work","1","","","","","","","","","","","","","Not started"
-"Q14","how does a computer DNS lookup work","2","","","","","","","","","","","","","Not started"
-"Q14","how does a computer DNS lookup work","3","","","","","","","","","","","","","Not started"
-"Q15","why do leaves change colour in autumn","1","","","","","","","","","","","","","Not started"
-"Q15","why do leaves change colour in autumn","2","","","","","","","","","","","","","Not started"
-"Q15","why do leaves change colour in autumn","3","","","","","","","","","","","","","Not started"
-"Q16","what is the difference between weather and climate","1","","","","","","","","","","","","","Not started"
-"Q16","what is the difference between weather and climate","2","","","","","","","","","","","","","Not started"
-"Q16","what is the difference between weather and climate","3","","","","","","","","","","","","","Not started"
-"Q17","who won the 2025 Masters golf tournament","1","","","","","","","","","","","","","Not started"
-"Q17","who won the 2025 Masters golf tournament","2","","","","","","","","","","","","","Not started"
-"Q17","who won the 2025 Masters golf tournament","3","","","","","","","","","","","","","Not started"
-"Q18","Skyfall filming locations in Scotland","1","","","","","","","","","","","","","Not started"
-"Q18","Skyfall filming locations in Scotland","2","","","","","","","","","","","","","Not started"
-"Q18","Skyfall filming locations in Scotland","3","","","","","","","","","","","","","Not started"
-"Q19","Minecraft Java versus Bedrock differences","1","","","","","","","","","","","","","Not started"
-"Q19","Minecraft Java versus Bedrock differences","2","","","","","","","","","","","","","Not started"
-"Q19","Minecraft Java versus Bedrock differences","3","","","","","","","","","","","","","Not started"
-"Q20","official trailer for Casino Royale 2006","1","","","","","","","","","","","","","Not started"
-"Q20","official trailer for Casino Royale 2006","2","","","","","","","","","","","","","Not started"
-"Q20","official trailer for Casino Royale 2006","3","","","","","","","","","","","","","Not started"
+﻿Query ID,Suggested query,Result position,Observed date,Search context,User intent,Result URL,Page title,Intent match (0–3),Credibility (0–3),Accuracy / freshness (0–2),Usefulness (0–2),Total (0–10),Rating justification,Verification evidence / limits,Status
+Q01,how to take a screenshot on a Mac,1,2026-10-27,Find clear instructions for taking a screenshot on Mac,Capturing the image currently on screen of your Apple laptop / desktop in MacOS,https://support.apple.com/en-us/102646,"""Take a screenshot on Mac""",3,3,2,2,10,"Information straight from the developer Apple. Includes multiple different keystrokes and options for recording a screenshot, including partial and full screenshots. Included a video tutorial.",All keystrokes suggested worked as intended.,Complete
+Q01,how to take a screenshot on a Mac,2,2026-10-27,,,https://www.reddit.com/r/mac/comments/1nbwahk/how_to_screen_shot_easier_with_mac_anyway_to_make/,"""How to screenshot easier with Mac? (Anyway to make like Windows?""",2,2,2,1,7,Intent in the supplied Reddit forum post was not exactly what the user was searching for; I had little need to change the keystroke I just needed to know what the keystroke was.  The supplied webpage overcomplicated what was a simple answer and query.,The one keystroke suggested worked as intended.,Complete
+Q01,how to take a screenshot on a Mac,3,2026-10-27,,,https://www.take-a-screenshot.org/mac.html,"""How to take a screenshot on a Mac""",3,2,2,2,9,"Information was accurate and useful for the context of the query. Webpage inlcuded a video tutorial, but was not natively played from the website and redirected to YouTube. Also suggested keystroke for partial screenshot.",Both keystrokes suggested worked as intended.,Complete
+Q02,how to reset the SMC on an Intel MacBook Pro,1,2026-10-27,Find clear instruction on how to reset the Systems Management Controller (SMC) on an Intel Macbook Pro,Most likely to resolve a bug or recurring battery issue on the user's device,https://discussions.apple.com/thread/252258776?sortBy=rank,"""Reset smc""",3,2,1,1,7,Directed straight to the Apple Community page with someone who had a similar issue. But had to search the replies to find the actual redirect link to Apple Web Support. A little bit of a longer pathway to the developer answer.,Answers suggested multiple different methods. The redirect link directly to Apple Web Support had the correct method.,Complete
+Q02,how to reset the SMC on an Intel MacBook Pro,2,2026-10-27,,,https://www.ifixit.com/Wiki/How_to_reset_the_SMC_on_a_Mac,"""How to Reset the SMC on a Mac""",3,3,2,2,10,Correct methodology and information presented concisely and immediately upon loading the webpage. Surprisingly easier to follow than Apple's own supplied support webpage.,Suggested SMC reset process worked as intended.,Complete
+Q02,how to reset the SMC on an Intel MacBook Pro,3,2026-10-27,,,https://www.reddit.com/r/mac/comments/d94ybe/how_do_you_do_an_smc_reset_on_a_13_inch_mid2012/,"""How do you do an SMC Reset on a 13 inch Mid-2012 Macbook Pro? (A1278)",2,1,1,0,4,The forum webpage was for a very specific Macbook that the search user might not necessarily have. Reply section indicated multiple methods to try.,Misleading information and inconclusive methodology.,Complete
+Q03,Windows 11 connected to Wi-Fi but no internet,1,2026-10-27,Diagnose technical issue with home computer not connecting to Internet,Trying to determine why their computer has no Internet connection despite being connected to a WiFi network,https://learn.microsoft.com/en-us/answers/questions/5822708/wifi-is-connected-but-says-no-internet-connection,"""Wifi is connected but says no internet connection""",3,3,2,2,10,Directed straight to Windows Support Page with other users having similar issues. The answer supplied covered a broad range of possible problems.,Unable to verify without a Windows 11 OS loaded.,Complete
+Q03,Windows 11 connected to Wi-Fi but no internet,2,2026-10-27,,,https://www.reddit.com/r/computerhelp/comments/1sd18qo/fix_windows_11_wifi_connected_but_still_shows_no/,"""[Fix] Windows 11 WiFi connected but still shows ""No Internet"" on every network",3,2,1,0,6,The forum webpage was not for a simple issue - the user had a significantly complicated network problem and the supplied answers were much too in-depth for as small an issue as the search user likely had.,Unable to verify without a Windows 11 OS loaded.,Complete
+Q03,Windows 11 connected to Wi-Fi but no internet,3,2026-10-27,,,https://support.microsoft.com/en-us/windows/experience/connectivity-networking/fix-wi-fi-connection-issues-in-windows,"""Fix Wi-Fi connection issues in Windows""",3,3,2,2,10,Directly opened the Windows Support page. Had clear and easy to follow instructions for how to fix the issue the search user was likely having.,Unable to verify without a Windows 11 OS loaded.,Complete
+Q04,how to enable two-factor authentication on GitHub,1,2026-10-27,Trying to determine how to turn on higher security settings on a personal GitHub account,User likely has been using GitHub for a project either personal/work that they want to keep secure,https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication,"""Configuring two-factor authentication""",3,3,2,2,10,Information was supplied directly by the GitHub support team. Included comprehensive coverage and problem solving for other potential roadblocks in setting up 2FA.,Correctly provided methodology.,Complete
+Q04,how to enable two-factor authentication on GitHub,2,2026-10-27,,,https://github.com/orgs/community/discussions/75939,"""How do you enable GitHub 2FA""",3,2,1,2,8,Directed to a GitHub forum page. One of the responses was a simplified version of the answer supplied on the GitHub support page. Gave the right information but not a lot of answers to help with further clarification.,"Provided a simple, concise answer.",Complete
+Q04,how to enable two-factor authentication on GitHub,3,2026-10-27,,,https://www.geeksforgeeks.org/git/configuring-two-factor-authentication-in-github/,"""Configuring Two-Factor Athentication in Github""",3,2,2,2,9,Information was even more comprehensive and easy to follow than the GitHub support page.  Supplied answer walked the search user through every step and potential pitfall. But linked heavily back to the GitHub support page.,Correctly provided methodology.,Complete
+Q05,Raleigh public library opening hours,1,2026-10-27,Trying to determine the hours of operation for the Raleigh library,Mostly likely user is trying to access books / public computers to use at the public library,https://www.wake.gov/departments-government/libraries/locations/north-regional-library,"""North Regional Library | Wake Country Government""",3,3,2,2,10,"Linked directly to the state government page for the library, including other redirects for possible follow up queries and library departments.",Direct state government source.,Complete
+Q05,Raleigh public library opening hours,2,2026-10-27,,,https://www.shopvillagedistrict.com/stores/wake-county-public-library/,"""Wake County Public Library - Village District""",3,2,2,2,9,Supplied answer was from a local shopping center that I can only assume includes the public library. Basic usage and hours were privided but nothing beyond that exept for a link to the state government library page.,Local source with state government hyperlinks to verify hours.,Complete
+Q05,Raleigh public library opening hours,3,2026-10-27,,,https://www.yelp.com/biz/wake-county-public-library-north-regional-branch-raleigh,"""Wake Country Public Library, North Regional Branch Photos""",3,1,2,1,7,"Directed to the library Yelp page. Hours were correctly stated, but there was also a lot of irrelevant photos and user reviews that clouded the basic information that was requested.",Yelp page supplied the official library website link to verify hours.,Complete
