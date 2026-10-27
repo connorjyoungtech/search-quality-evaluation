@@ -1,12 +1,10 @@
 # Methodology
 
-**Status: proposed procedure; data collection has not begun.**
+**Status: Project Completed**
 
 ## 1. Define the sample
 
-The workbook contains 20 suggested searches and three planned result slots per query. Confirm or change the queries before collection. The positions 1, 2 and 3 refer to the ordinary organic webpage results selected under the rule below; they are not observations until the search is performed.
-
-For the first session, use only Q01: `how to take a screenshot on a Mac`.
+The workbook contains 5 suggested searches and three planned result slots per query. Confirm or change the queries before collection. The positions 1, 2 and 3 refer to the ordinary organic webpage results selected under the rule below; they are not observations until the search is performed.
 
 ## 2. Collect results consistently
 
